@@ -14,4 +14,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Wearable Interval Timer"
-include(":app")
+include(":wear")
