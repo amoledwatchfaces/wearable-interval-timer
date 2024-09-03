@@ -90,3 +90,6 @@ keystore
 
 # firebase
 app/google-services.json
+/app/build/generated/ksp/debug/java/
+/app/build/generated/ksp/debug/kotlin/
+/app/build/generated/ap_generated_sources/debug/out/
